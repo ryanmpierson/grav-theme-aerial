@@ -1,9 +1,9 @@
 name: Aerial
-version: 2.0.0
+version: 2.0.1
 description: "A very simple personalizable landing page with social links."
 icon: desktop
 author:
-  name: NunoPress
+  name: NunoPress LLC
   email: hello@nunopress.com
   url: http://nunopress.com
 homepage: https://github.com/nunopress/grav-theme-aerial
